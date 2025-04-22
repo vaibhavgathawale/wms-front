@@ -1,0 +1,49 @@
+#form {
+  background-color: #EEF7F1;
+}
+
+#addButton:hover {
+  box-shadow: -1px 1px 17px 0px rgba(0,0,0,0.75);
+}
+
+#backButton:hover {
+  box-shadow: -1px 1px 17px 0px rgba(0,0,0,0.75);
+}
+
+input:hover {
+  border-color: #EEF7F1;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type="file"] {
+  border: 1px solid #b5bcc7;
+  vertical-align: middle;
+  margin-bottom: 10px;
+  direction: rtl;
+}
+
+input[type="file"]::-webkit-file-upload-button {
+  background-color: #0d6efd;
+  color: #FFFFFF;
+  line-height: 38px;
+  padding: 0px 20px;
+  border: none;
+  float: right;
+}
+
+input[type="file"]:hover {
+  color: #0d6efd;
+}
+
+button {
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 70px;
+}
